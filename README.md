@@ -1,12 +1,32 @@
-# React + Vite
+# VastuSpaze React Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive **Home Renovation & Portfolio website** built with **React + Vite**.  
+This project showcases services, portfolio projects, client reviews, and a contact form — all designed with a clean and professional UI.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+[Visit Website](https://vastuspaze-react.netlify.app/)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📌 Features
+
+- Responsive modern UI with Tailwind CSS
+- Hero section with clean call-to-action
+- Services showcase with images and descriptions
+- Portfolio grid with hover effects
+- Client reviews/testimonials
+- About section for brand introduction
+- Contact form section (dummy integration for now)
+- Footer with links
+
+---
+
+## 🛠️ Tech Stack
+
+- **React 18**
+- **Vite** (for fast builds and dev server)
+- **Tailwind CSS** (for styling)
+- **Netlify** (for deployment)
+
+---
